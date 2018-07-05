@@ -1,0 +1,28 @@
+FOR COLLABORATIVE(BOTH CASES):
+Time required to predict : 16.576421
+RMSE: 0.109298671995
+RMSE_Baseline: 0.222840210873
+Spearman: 0.999999619457
+Spearman_Baseline: 0.999998418165
+[Finished in 16.9s]
+
+FOR SVD-NORMAL:
+('Root Mean Square error:', 3.138152230116782)
+The Spearman rank is 0.999999999994
+Time for prediction : 99.179226 seconds
+[Finished in 28.1s]
+
+
+FOR SVD - 90% RETENTION:
+('Root Mean Square error:', 3.1392672963459027)
+The Spearman rank is  0.999999999994
+Time for prediction : 95.882671 seconds
+[Finished in 28.5s]
+
+
+FOR CUR-VALUES RETENTION:
+('Root Mean Square error:', 3.1392139776138683)
+The Spearman Rank i: 0.99999999724
+K Top Precision where k is  5 is :  0.45182239894
+Time for prediction : 19.146396 seconds
+[Finished in 17.4s]
